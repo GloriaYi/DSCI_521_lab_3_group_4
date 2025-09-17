@@ -2,7 +2,8 @@
 title: "Basic Functions Presentation"
 author: "DSCI_521_Group_4"
 format: 
-  revealjs: default
+  revealjs:
+    embed-resources: true
   html: default
 editor: visual
 execute:
